@@ -116,10 +116,8 @@ Power BI · DAX · Análisis exploratorio y de correlación
 
 ```
 ├── README.md
-├── informe/
-│   └── TIF_Caso_ITBA_Talent.pdf     Informe completo
-└── presentacion/
-    └── TIF_Presentacion.pdf         Presentación ejecutiva
+├── TIF_informe.pdf         Informe completo
+└── TIF_Presentacion.pdf    Presentación ejecutiva
 ```
 
 ## Autoría
